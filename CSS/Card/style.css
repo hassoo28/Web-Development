@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 10px;
+}
+.card{
+    width: 270px;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px black;
+}
+.cardtag{
+    color: grey;
+    border-radius: 22px;
+    border: 2px solid grey;
+    padding: 5px 10px;
+}
+.card button{
+    color: rgb(141, 192, 233);
+    background-color: rgb(39, 124, 173);
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;  
+    width: 100%; 
+}
+.card img{
+    padding: 5px;
+}
+.content{
+    padding: 15px 0px;
+}
